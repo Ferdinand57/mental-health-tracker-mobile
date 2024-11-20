@@ -1,4 +1,4 @@
-https://build.appcenter.ms/v0.1/apps/21aebbbf-2c3e-4af7-9894-a92cdef75975/branches/main/badge
+https://install.appcenter.ms/orgs/organization57/apps/mental-health-tracker/distribution_groups/public/releases/1
 
 
 # mental_health_tracker
